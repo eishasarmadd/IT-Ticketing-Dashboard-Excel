@@ -24,6 +24,10 @@ Ideal for:
 - Learning dashboard design best practices
 - Demonstrating data analysis capabilities in a support setting
 
+## 📷 Preview
+
+![Dashboard Screenshot](./screenshot.png)
+
 ## Outcome
 
 This project showcases how Excel can be used for real-time business insights without the need for expensive BI tools. It’s portfolio-ready and demonstrates practical data skills in an IT context.
