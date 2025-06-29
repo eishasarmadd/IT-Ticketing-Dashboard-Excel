@@ -24,7 +24,7 @@ Ideal for:
 - Learning dashboard design best practices
 - Demonstrating data analysis capabilities in a support setting
 
-## 📷 Preview
+## Preview
 
 ![Dashboard Screenshot](./screenshot.png)
 
